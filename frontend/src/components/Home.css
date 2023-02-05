@@ -1,0 +1,16 @@
+.home-buttons {
+  display: flex;
+  justify-content: center;
+}
+.btn-block {
+  width: max-content;
+  margin: 10px;
+}
+.home-welcome-text {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.home-welcome-text img {
+  margin: 3px 10px 0px 10px;
+}

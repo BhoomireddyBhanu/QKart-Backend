@@ -1,0 +1,5 @@
+Before regenerating stubs
+- To comment out the "JwtStrategy" creation and export lines in the passport.js file
+
+config/ folder gets generated as it can't be added in directories.ignore due to src/config being present
+- .txt and .sh files get generated even though they are added in filetypes.ignore
